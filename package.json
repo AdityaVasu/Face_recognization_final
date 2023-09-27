@@ -1,0 +1,22 @@
+{
+  "name": "lawyers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.2",
+    "nodemon": "^3.0.1"
+  }
+}
